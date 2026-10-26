@@ -57,6 +57,37 @@ The spreadsheet's sheets:
 - **Log:** 20 events and 16 incidents. There are 8 requests for troops: 6 clear, plus 2 borderline (Keynsham 1790; London Nov 1794).
 - **Not yet done:** HO 42 for later 1795 to 1801, which should be the richest years (the food crises of 1795–96 and 1800–01).
 
+## Period and series (decided 26 Oct 2026)
+- **Period:** 1790–1819.
+- **Series:**
+  - **Up to 1811:** HO 42 only.
+  - **From 1812:** HO 40 (Disturbances Correspondence) as well as HO 42. Disturbance letters were moved out of HO 42 into HO 40 from 1812 (Bend, ch. 3).
+  - **Caution:** the split wasn't continuous. Bend finds disturbance letters back in HO 42 for Jul 1813–Jun 1816 and Mar 1818–Jan 1820, so check both series for 1812–1819.
+  - This rule is also in the spreadsheet's Legend sheet.
+
+**Order for reading the remaining HO 42 volumes** (dates from TNA's Discovery API, `/API/records/v1/children/C8906`):
+1. **Food crises:**
+   - 35, 36, 37, 38 (Jun 1795–Apr 1796)
+   - 49, 50, 51, 52, 53, 55 (1800)
+   - 56, 61 (Jan–Apr 1801)
+2. **Next:**
+   - 19 (late 1791, Priestley riots)
+   - 20–23 (1792–early 1793)
+   - 39–40 (May 1796–May 1797, militia riots)
+   - 57, 62 (May–Dec 1801)
+   - 150–151 (May–Jun 1816, East Anglian bread riots)
+   - 113, 117, 118 (late 1811, Luddites)
+3. **Later:**
+   - 42–45 (1798)
+   - 178–179 (Jul–Aug 1818)
+   - 187–198 (1819, Peterloo)
+   - 24–29, 31–32 (rest of 1793–94)
+   - 17–18 (rest of 1790–91)
+4. **Skip:**
+   - 63–112 (1802–10, quiet)
+   - 54 (questionnaires)
+   - 59–60 (Bruce report)
+
 ## Next steps (proposed to JV; awaiting answers)
 1. HO 42, 1795–1801.
 2. Wells, *Wretched Faces*, pp. 419–40: a table of about 200 food riots and which force was used. That page range is *reported* by another session and not yet checked. It would give a count of riots independent of HO 42.
