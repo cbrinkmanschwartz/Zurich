@@ -48,13 +48,14 @@ The spreadsheet's sheets:
 - Photographs of the backs of letters matter: clerks recorded the reply date and decision there.
 - Never commit the PDFs. They're 50–70 MB each.
 
-## Coverage so far (7 Oct 2026)
+## Coverage so far (27 Oct 2026)
 - **Read in full:**
   - HO 42/16 (1790)
+  - HO 42/19 (Jul-Dec 1791), 20, 21, 22, 23 (1792 - early 1793)
   - HO 42/30 (May 1794)
   - HO 42/33 (Aug–Dec 1794)
   - HO 42/34 (Jan–Mar 1795)
-- **Log:** 20 events and 16 incidents. There are 8 requests for troops: 6 clear, plus 2 borderline (Keynsham 1790; London Nov 1794).
+- **Log:** 56 events; 32 requests for troops (some borderline), 9 barracks rows, 8 corps founded; 26 leads.
 - **Not yet done:** HO 42 for later 1795 to 1801, which should be the richest years (the food crises of 1795–96 and 1800–01).
 
 ## Period and series (decided 26 Oct 2026)
