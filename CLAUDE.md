@@ -57,8 +57,9 @@ The spreadsheet's sheets:
   - HO 42/34 (Jan–Mar 1795)
   - HO 42/35–40 (Jun 1795–May 1797)
   - HO 42/57, 62 (May–Dec 1801)
+  - HO 42/51 (Sep 1800; part 08 missing from Dropbox), 52_01–03 (Oct 1800)
   - HO 42/150_1 (May 1816); 150_2–6 and 151 still to do
-- **Log:** 90 events; 55 requests for troops (some borderline), 9 barracks rows, 10 corps founded, 9 corps armed/expanded; 29 leads.
+- **Log:** 109 events; 66 requests for troops (some borderline), 9 barracks rows, 10 corps founded, 14 corps armed/expanded; 29 leads.
 - **Not yet done:** HO 42 for later 1795 to 1801, which should be the richest years (the food crises of 1795–96 and 1800–01).
 
 ## Period and series (decided 26 Oct 2026)
