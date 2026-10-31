@@ -48,7 +48,7 @@ The spreadsheet's sheets:
 - Photographs of the backs of letters matter: clerks recorded the reply date and decision there.
 - Never commit the PDFs. They're 50–70 MB each.
 
-## Coverage so far (27 Oct 2026)
+## Coverage so far (31 Oct 2026)
 - **Read in full:**
   - HO 42/16 (1790)
   - HO 42/19 (Jul-Dec 1791), 20, 21, 22, 23 (1792 - early 1793)
@@ -57,10 +57,12 @@ The spreadsheet's sheets:
   - HO 42/34 (Jan–Mar 1795)
   - HO 42/35–40 (Jun 1795–May 1797)
   - HO 42/57, 62 (May–Dec 1801)
-  - HO 42/51 (Sep 1800; part 08 missing from Dropbox), 52_01–03 (Oct 1800)
+  - HO 42/51 (Sep 1800; part 08 missing from Dropbox), 52, 53 (Oct–Nov 1800), 55 (Dec 1800), 56 (Jan–Apr 1801, interdepartmental 'Domestic' volume, low yield)
   - HO 42/150_1 (May 1816); 150_2–6 and 151 still to do
-- **Log:** 109 events; 66 requests for troops (some borderline), 9 barracks rows, 10 corps founded, 14 corps armed/expanded; 29 leads.
-- **Not yet done:** HO 42 for later 1795 to 1801, which should be the richest years (the food crises of 1795–96 and 1800–01).
+- **Log:** 115 events; 71 request-for-troops rows (62 episodes; some borderline), 9 barracks, 10 corps founded, 14 corps armed/expanded, 10 Other; 29 leads.
+- **Uploaded, not yet read:** 42–45 (1798), 49, 50 (1800), 61 (1801), 113, 117, 118 (1811), 150_2–6, 151 (1816).
+- **Not uploaded:** 51_08 (gap); 41, 46–48 (Jun 1797–1799, not on reading list); 24–29, 31–32, 17–18, 178–179, 187–198; HO 40 for 1812–19.
+- **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
 
 ## Period and series (decided 26 Oct 2026)
 - **Period:** 1790–1819.
