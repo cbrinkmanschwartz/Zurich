@@ -106,6 +106,6 @@ The spreadsheet's sheets:
 ## Known problems
 - The network settings for this environment have blocked `uhra.herts.ac.uk` (Bend's thesis) at least once. Retrying later worked.
 - An earlier session dated the Oxford reply 1801. It is HO 43/12 pp. 106–7, **8 Sep 1800**.
-- Whether troops were *requested* at Oxford in 1800 is disputed: Gee says they were, Bend says Portland sent them without being asked. Check HO 42/51 before logging it.
+- Oxford 1800 RESOLVED (HO 42/51 ff.59, 94): Hughes was "surprized" troops came; they were sent unrequested (Bend correct). Logged as HO42-0094 (Other).
 - The Contentious Gatherings dataset (Horn & Tilly, ICPSR 8872) covers the London region only for 1758–1820. It is **not** a national count of riots.
 - Use they/them for people unless their pronouns are known.
