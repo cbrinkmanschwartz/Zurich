@@ -58,12 +58,13 @@ The spreadsheet's sheets:
   - HO 42/35–40 (Jun 1795–May 1797)
   - HO 42/57, 62 (May–Dec 1801)
   - HO 42/51 (Sep 1800, all parts), 52, 53 (Oct–Nov 1800), 55 (Dec 1800), 56 (Jan–Apr 1801, interdepartmental 'Domestic' volume, low yield)
-  - HO 42/42–45 (1798), 46, 47_01–05 (Jan–May 1799; security papers, low yield), 49, 50 (Jan–Aug 1800), 61 (Jan–Apr 1801)
+  - HO 42/42–45 (1798), 46, 47 (Jan–May 1799; security papers, low yield), 49, 50 (Jan–Aug 1800), 61 (Jan–Apr 1801)
   - HO 42/113 (Domestic, Oct–Dec 1811), 117, 118 (Aug–Dec 1811, Luddites)
   - HO 42/150, 151 (May–Jun 1816)
+  - HO 42/187, 188, 189_01–05 (May–Jul 1819)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 316 events; 191 request-for-troops rows (129 episodes; some borderline), 11 barracks, 15 corps founded, 24 corps armed/expanded, 5 corps forming, 70 Other; 29 leads.
-- **Uploaded, not yet read:** 47_06; 187_01–04, 188_1–2, 189_01–09, 190_01–08, 191_01–08, 192_01–07, 193_1–8 (1819).
+- **Log:** 337 events; 204 request-for-troops rows (140 episodes; many borderline), 12 barracks, 16 corps founded, 25 corps armed/expanded, 6 corps forming, 74 Other; 29 leads.
+- **Uploaded, not yet read:** 189_06–09, 190_01–08, 191_01–08, 192_01–07, 193_1–8 (1819).
 - **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
 - **Not uploaded:** 41, 48 (1797, later 1799); 194–198 (1819); 24–29, 31–32, 17–18, 178–179; HO 40 for 1812–19.
 - **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
