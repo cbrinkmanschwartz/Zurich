@@ -61,10 +61,10 @@ The spreadsheet's sheets:
   - HO 42/42–45 (1798), 46, 47 (Jan–May 1799; security papers, low yield), 49, 50 (Jan–Aug 1800), 61 (Jan–Apr 1801)
   - HO 42/113 (Domestic, Oct–Dec 1811), 117, 118 (Aug–Dec 1811, Luddites)
   - HO 42/150, 151 (May–Jun 1816)
-  - HO 42/187–191, 192_01–03, 192_05–07 (May–23 Aug 1819, incl. Peterloo, episode E253)
+  - HO 42/187–193 (May–Aug 1819, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 434 events; 249 request-for-troops rows (155 episodes; many borderline), 16 barracks, 19 corps founded, 33 corps armed/expanded, 15 corps forming, 102 Other; 29 leads.
-- **Uploaded, not yet read:** 192_04, 193_1–8 (1819).
+- **Log:** 465 events; 262 request-for-troops rows (160 episodes; many borderline), 20 barracks, 19 corps founded, 33 corps armed/expanded, 18 corps forming, 113 Other; 29 leads.
+- **Uploaded, not yet read:** none.
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
 - **Not uploaded:** 41, 48 (1797, later 1799); 194–198 (1819); 24–29, 31–32, 17–18, 178–179; HO 40 for 1812–19.
