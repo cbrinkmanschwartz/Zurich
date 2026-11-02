@@ -1,5 +1,7 @@
 # Kew order plan (drafted 2 Nov 2026)
 
+**Current version: `Kew_orders.xlsx` in the repository root (updated 2 Nov after the Saturday pre-order).** Already ordered for Saturday: HO 51/61, 51/12, HO 50/55, 50/56, 50/328, 50/325, 50/11, HO 43/8, 43/10, HO 50/3, 50/21, 50/22; reserves HO 50/9, HO 51/59, 51/13. The lists below are the original draft.
+
 TNA's Discovery catalogue lists none of the HO 50 or HO 43 pieces below as digitised. The HO 51 pieces and WO 32/7238 come from Caitlyn's own sheet and have not been checked.
 
 ## Friday: 21 on-demand, 3 per round (about every 45 minutes)
