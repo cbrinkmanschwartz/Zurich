@@ -55,19 +55,19 @@ The spreadsheet's sheets:
   - HO 42/30 (May 1794)
   - HO 42/33 (Aug–Dec 1794)
   - HO 42/34 (Jan–Mar 1795)
-  - HO 42/35–40 (Jun 1795–May 1797)
+  - HO 42/35–40 (Jun 1795–May 1797), 41 (Jun–Dec 1797)
   - HO 42/57, 62 (May–Dec 1801)
   - HO 42/51 (Sep 1800, all parts), 52, 53 (Oct–Nov 1800), 55 (Dec 1800), 56 (Jan–Apr 1801, interdepartmental 'Domestic' volume, low yield)
-  - HO 42/42–45 (1798), 46, 47 (Jan–May 1799; security papers, low yield), 49, 50 (Jan–Aug 1800), 61 (Jan–Apr 1801)
+  - HO 42/42–45 (1798), 46, 47, 48 (1799; security papers, low yield), 49, 50 (Jan–Aug 1800), 61 (Jan–Apr 1801)
   - HO 42/113 (Domestic, Oct–Dec 1811), 117, 118 (Aug–Dec 1811, Luddites)
   - HO 42/150, 151 (May–Jun 1816)
-  - HO 42/187–193 (May–Aug 1819, incl. Peterloo, episode E253)
+  - HO 42/187–193, 194_01 (May–mid-Sep 1819, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 465 events; 262 request-for-troops rows (160 episodes; many borderline), 20 barracks, 19 corps founded, 33 corps armed/expanded, 18 corps forming, 113 Other; 29 leads.
-- **Uploaded, not yet read:** none.
+- **Log:** 481 events; 265 request-for-troops rows (162 episodes; many borderline), 20 barracks, 21 corps founded, 35 corps armed/expanded, 22 corps forming, 118 Other; 29 leads.
+- **Uploaded, not yet read:** 24_01–12, 25_01–10, 26_01–08 (1793–94), 194_02 (more uploading, 89 items in total).
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
-- **Not uploaded:** 41, 48 (1797, later 1799); 194–198 (1819); 24–29, 31–32, 17–18, 178–179; HO 40 for 1812–19.
+- **Not uploaded (as of 2 Nov):** 195–198 (1819); 27–29, 31–32, 17–18, 178–179; HO 40 for 1812–19.
 - **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
 
 ## Period and series (decided 26 Oct 2026)
