@@ -48,10 +48,10 @@ The spreadsheet's sheets:
 - Photographs of the backs of letters matter: clerks recorded the reply date and decision there.
 - Never commit the PDFs. They're 50–70 MB each.
 
-## Coverage so far (2 Nov 2026)
+## Coverage so far (3 Nov 2026)
 - **Read in full:**
   - HO 42/16 (1790)
-  - HO 42/19 (Jul-Dec 1791), 20, 21, 22, 23 (1792 - early 1793), 24, 25, 26_01–04 (Jan–early Aug 1793)
+  - HO 42/19 (Jul-Dec 1791), 20, 21, 22, 23 (1792 - early 1793), 24, 25, 26 (Jan–15 Sep 1793; HO 42/26 ends f.551)
   - HO 42/30 (May 1794)
   - HO 42/33 (Aug–Dec 1794)
   - HO 42/34 (Jan–Mar 1795)
@@ -63,11 +63,11 @@ The spreadsheet's sheets:
   - HO 42/150, 151 (May–Jun 1816)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 705 events; 357 request-for-troops rows (187 episodes; many borderline), 38 barracks, 27 corps founded, 51 corps armed/expanded, 49 corps forming, 183 Other; 29 leads.
-- **Uploaded, not yet read:** 26_05–08 (Aug–Dec 1793).
+- **Log:** 708 events; 359 request-for-troops rows (188 episodes; many borderline), 38 barracks, 27 corps founded, 51 corps armed/expanded, 49 corps forming, 184 Other; 29 leads.
+- **Uploaded, not yet read:** none (all Dropbox files read as of 3 Nov 2026).
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
-- **Not uploaded (as of 2 Nov):** 27–29, 31–32, 17–18, 178–179; HO 40 for 1812–19.
+- **Not uploaded (as of 3 Nov):** 27–29 (Sep 1793–Apr 1794), 31–32, 17–18, 178–179; HO 40 for 1812–19.
 - **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
 
 ## Period and series (decided 26 Oct 2026)
