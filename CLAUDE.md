@@ -48,7 +48,7 @@ The spreadsheet's sheets:
 - Photographs of the backs of letters matter: clerks recorded the reply date and decision there.
 - Never commit the PDFs. They're 50–70 MB each.
 
-## Coverage so far (3 Nov 2026)
+## Coverage so far (5 Nov 2026)
 - **Read in full:**
   - HO 42/16 (1790)
   - HO 42/19 (Jul-Dec 1791), 20, 21, 22, 23 (1792 - early 1793), 24, 25, 26 (Jan–15 Sep 1793; HO 42/26 ends f.551)
@@ -61,13 +61,15 @@ The spreadsheet's sheets:
   - HO 42/42–45 (1798), 46, 47, 48 (1799; security papers, low yield), 49, 50 (Jan–Aug 1800), 61 (Jan–Apr 1801)
   - HO 42/113 (Domestic, Oct–Dec 1811), 117, 118 (Aug–Dec 1811, Luddites)
   - HO 42/150, 151 (May–Jun 1816)
+  - HO 40/3 (Oct 1816–Feb 1818: the 1817 Lords Secret Committee bundle; Spa Fields, Hampden clubs, Leicestershire, Lancashire; NOT 1812 Luddites)
+  - HO 42/27_01 (1–8 Nov 1793)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 708 events; 359 request-for-troops rows (188 episodes; many borderline), 38 barracks, 27 corps founded, 51 corps armed/expanded, 49 corps forming, 184 Other; 29 leads.
-- **Uploaded, not yet read:** none (all Dropbox files read as of 3 Nov 2026).
+- **Log:** 730 events; 371 request-for-troops rows (197 episodes; many borderline), 40 barracks, 27 corps founded, 51 corps armed/expanded, 50 corps forming, 191 Other; 29 leads.
+- **Uploaded, not yet read:** HO 42/17_01–04, 18_01–07 (1790–91), 27_02–07 (Nov 1793 on).
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
-- **Not uploaded (as of 3 Nov):** 27–29 (Sep 1793–Apr 1794), 31–32, 17–18, 178–179; HO 40 for 1812–19.
+- **Not uploaded (as of 5 Nov):** 28–29, 31–32, 178–179; HO 40/1–2 (1812 Luddites) and the rest of HO 40 for 1812–19.
 - **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
 
 ## Period and series (decided 26 Oct 2026)
@@ -113,6 +115,7 @@ The spreadsheet's sheets:
 - Is there budget for a Kew trip?
 
 ## Known problems
+- Fixed 5 Nov 2026: addrows.py had been stretching the Lookups range in the Home Secretary formula (should be $A$2:$A$20 / $B$2:$B$20). All rows reset; values were unaffected.
 - The network settings for this environment have blocked `uhra.herts.ac.uk` (Bend's thesis) at least once. Retrying later worked.
 - An earlier session dated the Oxford reply 1801. It is HO 43/12 pp. 106–7, **8 Sep 1800**.
 - Oxford 1800 RESOLVED (HO 42/51 ff.59, 94): Hughes was "surprized" troops came; they were sent unrequested (Bend correct). Logged as HO42-0094 (Other).
