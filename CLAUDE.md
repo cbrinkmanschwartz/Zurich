@@ -50,7 +50,7 @@ The spreadsheet's sheets:
 
 ## Coverage so far (5 Nov 2026)
 - **Read in full:**
-  - HO 42/16 (1790)
+  - HO 42/16 (1790), 17, 18 (Sep 1790–Jun 1791; routine, low yield)
   - HO 42/19 (Jul-Dec 1791), 20, 21, 22, 23 (1792 - early 1793), 24, 25, 26 (Jan–15 Sep 1793; HO 42/26 ends f.551)
   - HO 42/30 (May 1794)
   - HO 42/33 (Aug–Dec 1794)
@@ -62,14 +62,14 @@ The spreadsheet's sheets:
   - HO 42/113 (Domestic, Oct–Dec 1811), 117, 118 (Aug–Dec 1811, Luddites)
   - HO 42/150, 151 (May–Jun 1816)
   - HO 40/3 (Oct 1816–Feb 1818: the 1817 Lords Secret Committee bundle; Spa Fields, Hampden clubs, Leicestershire, Lancashire; NOT 1812 Luddites)
-  - HO 42/27_01 (1–8 Nov 1793)
+  - HO 42/27 (Nov 1793; ends f.493; parts 06–07 are London Gazette accounts)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 730 events; 371 request-for-troops rows (197 episodes; many borderline), 40 barracks, 27 corps founded, 51 corps armed/expanded, 50 corps forming, 191 Other; 29 leads.
-- **Uploaded, not yet read:** HO 42/17_01–04, 18_01–07 (1790–91), 27_02–07 (Nov 1793 on).
+- **Log:** 741 events; 376 request-for-troops rows (201 episodes; many borderline), 42 barracks, 27 corps founded, 51 corps armed/expanded, 50 corps forming, 195 Other; 29 leads.
+- **Uploaded, not yet read:** none (as of 5 Nov 2026).
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
-- **Not uploaded (as of 5 Nov):** 28–29, 31–32, 178–179; HO 40/1–2 (1812 Luddites) and the rest of HO 40 for 1812–19.
+- **Not uploaded (as of 5 Nov):** HO 40/1–2 (1812 Luddites; digitised); HO 42/28–29, 31–32 (Jan–Jul 1794); 119–131 (1812); 178–179 (1818); 152–157 (Jul–Dec 1816); 158–172 (1817). All are free TNA downloads per Discovery.
 - **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
 
 ## Period and series (decided 26 Oct 2026)
