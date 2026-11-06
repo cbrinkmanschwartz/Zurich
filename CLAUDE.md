@@ -49,7 +49,7 @@ The spreadsheet's sheets:
 - Never commit the PDFs. They're 50–70 MB each.
 - **Caitlyn's Kew photos (from 6 Nov 2026):** they arrive in the same Dropbox folder as `Photo DD-MM-YYYY, HH MM SS.jpg`. Sort by time. A new volume starts with a photo whose **centre is a bright yellow TNA slip** (name + document reference); a small slip at the edge of a page photo is NOT a boundary. Photos before the first slip in a batch belong to the volume already open. Sort them into scratchpad folders named after the volume (e.g. `kew/HO 50-47/`). In the log: Call number = that volume, File = photo filename, PDF page no. = photo index, Image status = "Own photo taken".
 
-## Coverage so far (5 Nov 2026)
+## Coverage so far (6 Nov 2026)
 - **Read in full:**
   - HO 42/16 (1790), 17, 18 (Sep 1790–Jun 1791; routine, low yield)
   - HO 42/19 (Jul-Dec 1791), 20, 21, 22, 23 (1792 - early 1793), 24, 25, 26 (Jan–15 Sep 1793; HO 42/26 ends f.551)
@@ -63,11 +63,13 @@ The spreadsheet's sheets:
   - HO 42/113 (Domestic, Oct–Dec 1811), 117, 118 (Aug–Dec 1811, Luddites)
   - HO 42/150, 151 (May–Jun 1816)
   - HO 40/3 (Oct 1816–Feb 1818: the 1817 Lords Secret Committee bundle; Spa Fields, Hampden clubs, Leicestershire, Lancashire; NOT 1812 Luddites)
-  - **HO 50/47** (Volunteers, Jan–Jun 1800): CBS's own Kew photos, 6 Nov 2026; read from c.24 Mar 1800 to end; Jan–Mar part to follow
+  - **HO 50/47** (Volunteers, Jan–Jun 1800): CBS's own Kew photos, 6 Nov 2026; complete (slip photo 11:24:10)
+  - HO 50/23 (Militia, Jan–May 1795): only the last photos (13:48, 27–30 May 1795) uploaded; slip 11:46, rest to follow
+  - WO 32/7238 (1885 Yeomanry precedence file; formation dates of yeomanry regiments): photographed 13:58–13:59; no rows logged (reference CHECK)
   - HO 42/27 (Nov–Dec 1793; ff.1–c.884; parts 06–07 are London Gazette accounts)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 767 events; see Summary sheet for the breakdown; 29 leads.
+- **Log:** 773 events; see Summary sheet for the breakdown; 29 leads.
 - **Uploaded, not yet read:** HO 42/28, 29, 31, 32 (Nov 1793–Jul 1794), 178, 179 (Jul–Aug 1818).
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
