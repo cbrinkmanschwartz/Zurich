@@ -62,11 +62,12 @@ The spreadsheet's sheets:
   - HO 42/113 (Domestic, Oct–Dec 1811), 117, 118 (Aug–Dec 1811, Luddites)
   - HO 42/150, 151 (May–Jun 1816)
   - HO 40/3 (Oct 1816–Feb 1818: the 1817 Lords Secret Committee bundle; Spa Fields, Hampden clubs, Leicestershire, Lancashire; NOT 1812 Luddites)
+  - **HO 50/47** (Volunteers, Jan–Jun 1800): CBS's own Kew photos, 6 Nov 2026; read from c.24 Mar 1800 to end; Jan–Mar part to follow
   - HO 42/27 (Nov 1793; ends f.493; parts 06–07 are London Gazette accounts)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 741 events; 376 request-for-troops rows (201 episodes; many borderline), 42 barracks, 27 corps founded, 51 corps armed/expanded, 50 corps forming, 195 Other; 29 leads.
-- **Uploaded, not yet read:** none (as of 5 Nov 2026).
+- **Log:** 759 events (incl. 18 from HO 50/47 photos); see Summary sheet for breakdown; 29 leads.
+- **Uploaded, not yet read:** HO 42/27_08–13, 28, 29, 31, 32 (Nov 1793–Jul 1794), 178, 179 (Jul–Aug 1818).
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
 - **Not uploaded (as of 5 Nov):** HO 40/1–2 (1812 Luddites; digitised); HO 42/28–29, 31–32 (Jan–Jul 1794); 119–131 (1812); 178–179 (1818); 152–157 (Jul–Dec 1816); 158–172 (1817). All are free TNA downloads per Discovery.
