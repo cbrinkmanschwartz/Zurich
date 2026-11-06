@@ -47,7 +47,7 @@ The spreadsheet's sheets:
 - Each image is about one folio and carries its folio number, so use the stamped numbers to locate a range.
 - Photographs of the backs of letters matter: clerks recorded the reply date and decision there.
 - Never commit the PDFs. They're 50–70 MB each.
-- **Caitlyn's Kew photos (from 6 Nov 2026):** they arrive in the same Dropbox folder as `Photo DD-MM-YYYY, HH MM SS.jpg`. Sort by time. A new volume starts with a photo whose **centre is a bright yellow TNA slip** (name + document reference); a small slip at the edge of a page photo is NOT a boundary. Photos before the first slip in a batch belong to the volume already open. Sort them into scratchpad folders named after the volume (e.g. `kew/HO 50-47/`). In the log: Call number = that volume, File = photo filename, PDF page no. = photo index, Image status = "Own photo taken".
+- **Caitlyn's Kew photos (from 6 Nov 2026):** they arrive in the same Dropbox folder as `Photo DD-MM-YYYY, HH MM SS.jpg`. Sort by time. A new volume starts with a photo whose **centre is a bright yellow TNA slip** (name + document reference); a small slip at the edge of a page photo is NOT a boundary. Photos before the first slip in a batch belong to the volume already open. Sort them into scratchpad folders named after the volume (e.g. `kew/HO 50-47/`). In the log: Call number = that volume, File = photo filename, PDF page no. = photo index, Image status = "Own photo taken". **No retakes are possible:** log unreadable or unphotographed pages as ILLEGIBLE (in the row's Notes if a logged letter is affected, and in the Legend coverage note).
 
 ## Coverage so far (6 Nov 2026)
 - **Read in full:**
