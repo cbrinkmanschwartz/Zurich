@@ -65,11 +65,13 @@ The spreadsheet's sheets:
   - HO 40/3 (Oct 1816–Feb 1818: the 1817 Lords Secret Committee bundle; Spa Fields, Hampden clubs, Leicestershire, Lancashire; NOT 1812 Luddites)
   - **HO 50/47** (Volunteers, Jan–Jun 1800): CBS's own Kew photos, 6 Nov 2026; complete (slip photo 11:24:10)
   - HO 50/23 (Militia, Jan–May 1795): only the last photos (13:48, 27–30 May 1795) uploaded; slip 11:46, rest to follow
+  - **HO 50/48** (CHECK: inferred; Volunteers 27 Jun–29 Dec 1800, not 1799 as catalogued): photos 6 Nov 14:17–15:03; ff.37–179 and 210–304 ('End') read, 21 rows. MISSING ff.1–36 (early Jul 1800) and ff.180–209 (c.8–23 Nov 1800; deleted). Photo 14 17 48 ILLEGIBLE (c.ff.44–47).
+  - HO 50/30 or 50/31 (Militia misc.; CHECK): photos 15:45–15:53, Dec 1798–Jun 1799 (Militia Reduction Bill), 2 borderline rows. 15 photos at 15:03:49 uploaded empty (lost).
   - WO 32/7238 (1885 Yeomanry precedence file; formation dates of yeomanry regiments): photographed 13:58–13:59; no rows logged (reference CHECK)
   - HO 42/27 (Nov–Dec 1793; ff.1–c.884; parts 06–07 are London Gazette accounts)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 773 events; see Summary sheet for the breakdown; 29 leads.
+- **Log:** 796 events; see Summary sheet for the breakdown; 29 leads.
 - **Uploaded, not yet read:** HO 42/28, 29, 31, 32 (Nov 1793–Jul 1794), 178, 179 (Jul–Aug 1818).
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
