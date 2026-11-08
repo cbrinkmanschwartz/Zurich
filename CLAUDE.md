@@ -7,7 +7,7 @@ Archive research by Caitlyn Brinkman-Schwartz for Prof. Hans-Joachim Voth (JV), 
 - **Also in scope:**
   - **barracks** (requests to build them, or arguments about where to put them)
   - **corps founded, armed or expanded** (volunteer corps, militia, armed associations). Key quotes tie them to "suppress any Insurrections".
-- **Geography:** England only. Wales and Scotland are out; note them in passing but don't log them.
+- **Geography:** England only. Wales (including Monmouthshire) and Scotland are cut entirely (CBS, 8 Nov 2026): don't log them or list them in coverage notes.
 - **Responses** (HO 43, and notes on the letters themselves) are background, per JV. Bend's thesis shows HO 43 can also be used to *find* requests (see `notes/02_…`).
 - **Workflow** ("broad funnel"):
   1. Look at each letter's topic. If in doubt, include it. Record the metadata and the key quote.
@@ -81,7 +81,6 @@ The spreadsheet's sheets:
 - **Log:** 1048 events; see Summary sheet for the breakdown; 29 leads.
 - **Uploaded, not yet read (8 Nov):** HO 42/153, 154 (Sep–Oct 1816), HO 40/1, 40/2 (1812), HO 42/119–124 (Jan–Jun 1812), 152–154 (Jul–Oct 1816). In scratchpad pdf_new/.
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
-- **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
 - **Not uploaded (as of 5 Nov):** HO 40/1–2 (1812 Luddites; digitised); HO 42/28–29, 31–32 (Jan–Jul 1794); 119–131 (1812); 178–179 (1818); 152–157 (Jul–Dec 1816); 158–172 (1817). All are free TNA downloads per Discovery.
 - **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
 
