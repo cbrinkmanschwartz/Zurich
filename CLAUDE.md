@@ -56,7 +56,7 @@ The spreadsheet's sheets:
   - HO 42/28, 29 (Jan–Apr 1794; 30 rows, mostly 1794 corps plans; 1 borderline request: Penzance volunteers vs smugglers)
   - HO 42/31, 32 (Jun–Jul 1794; 17 rows; Exeter wool-combers keep-troops request; Derby, Newcastle, Reading barracks; 42/32_01 is Bow St accounts)
   - HO 42/179 (Aug 1818; 56 rows, mostly Manchester E529 / Stockport E531 continued; Bolton; Byng refusing troops for wage disputes)
-  - HO 42/152 parts 1, 3, 4 (Jul–Aug 1816; Preston riot, Tiverton, Frome, Coventry, Nottingham, Leicester, Shrewsbury, Hinckley); parts 2, 5–8 being read
+  - HO 42/152 (Jul–Aug 1816, complete): Preston riot E545, Leicester E538, Frome, Bolton, Workington/Whitehaven seamen, Bridgnorth/Wolverhampton/Dudley colliers and ironworkers, Derby depot, Newbury
   - HO 42/178 (Jul 1818; 34 rows: Manchester spinners E529, Stockport power-loom weavers E531, Wigan, Westbury election, Holborn fire)
   - HO 42/30 (May 1794)
   - HO 42/33 (Aug–Dec 1794)
@@ -78,8 +78,8 @@ The spreadsheet's sheets:
   - HO 42/27 (Nov–Dec 1793; ff.1–c.884; parts 06–07 are London Gazette accounts)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 1014 events; see Summary sheet for the breakdown; 29 leads.
-- **Uploaded, not yet read (8 Nov):** HO 42/152 parts 2, 5–8, HO 40/1, 40/2 (1812), HO 42/119–124 (Jan–Jun 1812), 152–154 (Jul–Oct 1816). In scratchpad pdf_new/.
+- **Log:** 1048 events; see Summary sheet for the breakdown; 29 leads.
+- **Uploaded, not yet read (8 Nov):** HO 42/153, 154 (Sep–Oct 1816), HO 40/1, 40/2 (1812), HO 42/119–124 (Jan–Jun 1812), 152–154 (Jul–Oct 1816). In scratchpad pdf_new/.
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Scope question for JV:** Monmouthshire (Chepstow 1801, Abergavenny 1816 requests) not logged; treated as Wales.
 - **Not uploaded (as of 5 Nov):** HO 40/1–2 (1812 Luddites; digitised); HO 42/28–29, 31–32 (Jan–Jul 1794); 119–131 (1812); 178–179 (1818); 152–157 (Jul–Dec 1816); 158–172 (1817). All are free TNA downloads per Discovery.
