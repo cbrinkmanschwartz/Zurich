@@ -7,7 +7,7 @@ Archive research by Caitlyn Brinkman-Schwartz for Prof. Hans-Joachim Voth (JV), 
 - **Also in scope:**
   - **barracks** (requests to build them, or arguments about where to put them)
   - **corps founded, armed or expanded** (volunteer corps, militia, armed associations). Key quotes tie them to "suppress any Insurrections".
-- **Geography:** England only. Wales (including Monmouthshire) and Scotland are cut entirely (CBS, 8 Nov 2026): don't log them or list them in coverage notes.
+- **Geography:** England only. Wales (including Monmouthshire), Scotland and Ireland are cut entirely (CBS, 8 Nov 2026): don't log them or list them in coverage notes.
 - **Responses** (HO 43, and notes on the letters themselves) are background, per JV. Bend's thesis shows HO 43 can also be used to *find* requests (see `notes/02_…`).
 - **Workflow** ("broad funnel"):
   1. Look at each letter's topic. If in doubt, include it. Record the metadata and the key quote.
