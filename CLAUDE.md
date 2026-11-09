@@ -74,7 +74,8 @@ The spreadsheet's sheets:
   - HO 42/150, 151 (May–Jun 1816)
   - HO 40/3 (Oct 1816–Feb 1818: the 1817 Lords Secret Committee bundle; Spa Fields, Hampden clubs, Leicestershire, Lancashire; NOT 1812 Luddites)
   - **HO 50/47** (Volunteers, Jan–Jun 1800): CBS's own Kew photos, 6 Nov 2026; complete (slip photo 11:24:10)
-  - HO 50/23 (Militia, Jan–May 1795): only the last photos (13:48, 27–30 May 1795) uploaded; slip 11:46, rest to follow
+  - HO 50/23 (Militia, Jan–May 1795): only the last photos (13:48, 27–30 May 1795, ff.233–243) uploaded; slip 11:46; photos 11:48–13:48 lost (deleted). Confirmed HO 50/23, not 50/386 (CBS opened 50/386 later). Re-order targeted: mid-Mar–May 1795, up to f.232.
+  - HO 50/386 (Secretary at War, 1795): opened by CBS on 6 Nov in the afternoon (probably the empty 15:03:49 burst); judged useless, nothing photographed. Do not re-order.
   - **HO 50/48** (CHECK: inferred; Volunteers 27 Jun–29 Dec 1800, not 1799 as catalogued): photos 6 Nov 14:17–15:03; ff.37–179 and 210–304 ('End') read, 21 rows. MISSING ff.1–36 (early Jul 1800) and ff.180–209 (c.8–23 Nov 1800; deleted). Photo 14 17 48 ILLEGIBLE (c.ff.44–47).
   - HO 50/30 (Militia misc.; spine photo confirms): photos 15:45–15:53, Dec 1798–Jun 1799 (Militia Reduction Bill), 2 borderline rows. 15 photos at 15:03:49 uploaded empty (lost).
   - **Batch 3 (uploaded 8 Nov; 1,322 files, 666 unique; 73 rows HO42-0797–0869):** HO 50/47 front (Leica L1170109–164, Dec 1799–Feb 1800; now complete); HO 50/10 (C-in-C 1800) ff.7–264 'END', missing ff.245–258; HO 51/61 (3 openings, 0 rows); HO 50/56 (1800–02); HO 50/55 (CHECK: letters 1793–99); HO 50/50 (18 Mar–16 Jun 1801); HO 50/389 (Dec 1800–May 1801, gap c.19 Apr–12 May); HO 50/325 slip only; HO 50/24 only ff.85–87 (Oct 1795).
