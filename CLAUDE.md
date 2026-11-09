@@ -58,7 +58,7 @@ The spreadsheet's sheets:
   - HO 42/179 (Aug 1818; 56 rows, mostly Manchester E529 / Stockport E531 continued; Bolton; Byng refusing troops for wage disputes)
   - HO 42/152 (Jul–Aug 1816, complete): Preston riot E545, Leicester E538, Frome, Bolton, Workington/Whitehaven seamen, Bridgnorth/Wolverhampton/Dudley colliers and ironworkers, Derby depot, Newbury
   - HO 42/153, 154 (Sep–Oct 1816, complete; ~75 rows): silver-coin riots (Hull, Sunderland), North Shields seamen, Wigan, Bolton, Blackburn, Manchester, Stockport, Notts frame-breaking (Lambley), Birmingham riot 28 Oct, Walsall; Sidmouth yeomanry circular 20 Oct
-  - HO 42/122 (complete), HO 42/123 (May 1812, complete), HO 42/124 parts 1–6 (Jun 1812): Apr 1812 peak (Manchester, Oldham, Rochdale, Penistone, Bridport, Salisbury, Carlisle, Birmingham, Huddersfield; Grey/Clay refusing for lack of troops); May (Lieutenancy schemes, Local Militia divisions, Watch & Ward; Wigan, Nottingham 14 May, Frome); Jun (Lancaster gaol guard). Grey: magistrates 'would have a guard in every town if they were indulged'.
+  - HO 42/122 (complete), HO 42/123 (May 1812, complete), HO 42/124 (Jun 1812, complete): Apr 1812 peak (Manchester, Oldham, Rochdale, Penistone, Bridport, Salisbury, Carlisle, Birmingham, Huddersfield; Grey/Clay refusing for lack of troops); May (Lieutenancy schemes, Local Militia divisions, Watch & Ward; Wigan, Nottingham 14 May, Frome); Jun (Lancaster gaol guard). Grey: magistrates 'would have a guard in every town if they were indulged'.
   - HO 42/120 (complete), HO 42/121 (Mar 1812, complete), HO 42/122 parts 1–4 (Apr 1812): Notts assizes troop dispute (Coldham vs county JPs, Judge Bayley), Huddersfield (Radcliffe, Grey refusals), Leeds, Rawdon/Gildersome, Boston/Spilsby enclosure, Manchester Exchange riot, Middleton, Carlisle food riot, Cornwall tinners, Sheffield arms-depot riot, Barnsley, Bristol, Trowbridge, Birmingham, Coventry, Wigan, Leigh. HO 40/2 complete.
   - HO 42/119 (Jan 1812, complete) and HO 42/120 parts 01–07 (Feb 1812): Notts/Leics frame-breaking E169/E170 continued; office copies of Nov–Dec 1811 letters NOT re-logged; Leics 'Feb 1812' draft reply (HO 42/120_06) judged a misdated copy of the 9 Dec 1811 reply and dropped (CHECK).
   - HO 40/1 (complete) and HO 40/2 parts 01–23 except 20 (Feb 1812–Mar 1813): Luddites. Bolton/Westhoughton E562, Stockport E563, Ashton/Hyde/Mottram, West Riding (Huddersfield, Wakefield Lieutenancy, Halifax), Manchester (Maitland), Leicester, New Mills. HO 40/2 is mostly Maj-Gen Acland's military in-letters: local requests appear as officers' reports. Duplicate copies (Secret Committee '(B)' copies) dropped.
@@ -83,8 +83,8 @@ The spreadsheet's sheets:
   - HO 42/27 (Nov–Dec 1793; ff.1–c.884; parts 06–07 are London Gazette accounts)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 1513 events; see Summary sheet for the breakdown; 29 leads.
-- **Uploaded, not yet read (8 Nov):** HO 42/124 parts 7–11 (Jun 1812). In scratchpad pdf_new/.
+- **Log:** 1518 events; see Summary sheet for the breakdown; 29 leads.
+- **Uploaded, not yet read:** nothing (all uploads to 9 Nov read).
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Not uploaded (as of 5 Nov):** HO 40/1–2 (1812 Luddites; digitised); HO 42/28–29, 31–32 (Jan–Jul 1794); 119–131 (1812); 178–179 (1818); 152–157 (Jul–Dec 1816); 158–172 (1817). All are free TNA downloads per Discovery.
 - **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
