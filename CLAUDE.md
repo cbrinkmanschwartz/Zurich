@@ -75,6 +75,7 @@ The spreadsheet's sheets:
   - HO 42/42–45 (1798), 46, 47, 48 (1799; security papers, low yield), 49, 50 (Jan–Aug 1800), 61 (Jan–Apr 1801)
   - HO 42/113 (Domestic, Oct–Dec 1811), 117, 118 (Aug–Dec 1811, Luddites)
   - HO 42/150, 151 (May–Jun 1816)
+  - **HO 42/158, 161, 162, 165** (Jan–May 1817; 115 rows HO42-1757–1871): Hunt's Bath/Bristol meetings (E714, E650), Birmingham and Potteries reform meetings, Manchester artillery request, Leicester artillery refused, Blanketeers 10 Mar (Byng, Oldham requisition), Manchester plot 30 Mar, Somerset colliers (Hippisley requisition), Scilly, Maryport, Alnwick, Notts assizes. Byng on Hull JPs: 'think only of preserving the Peace by Military assistance'.
   - **HO 42/155, 156, 157** (Nov–Dec 1816; 116 rows HO42-1519–1634 plus 157_2–7 in HO42-1635–1756): Spa Fields 2 Dec 1816 (E379; ~8 London requests that day, City prisons, docks, gas works, armouries), Notts/Radford guard (E573), Sheffield 3–5 Dec, Bristol (Hunt), Carlisle depot, Manchester infantry, Birmingham follow-ups. Theme: alarm about arms depots. HO 42/156_2 ff.100–117 judged from contact sheets only (re-check).
   - HO 40/3 (Oct 1816–Feb 1818: the 1817 Lords Secret Committee bundle; Spa Fields, Hampden clubs, Leicestershire, Lancashire; NOT 1812 Luddites)
   - **HO 50/47** (Volunteers, Jan–Jun 1800): CBS's own Kew photos, 6 Nov 2026; complete (slip photo 11:24:10)
@@ -89,8 +90,8 @@ The spreadsheet's sheets:
   - HO 42/27 (Nov–Dec 1793; ff.1–c.884; parts 06–07 are London Gazette accounts)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 1756 events; see Summary sheet for the breakdown; 29 leads.
-- **Uploaded, not yet read (10 Nov):** HO 42/158 parts 2, 4–6, 8–9; 161 (all); 162 (all); 165; 143 (one 810-page file). HO 42/158_1, 3, 7 done. Duplicates skipped: HO-42-34_01–03 (read earlier), HO-42-162_2 (1). 16 readers were cut off by the 5-hour usage limit and resumed.
+- **Log:** 1871 events; see Summary sheet for the breakdown; 29 leads.
+- **Uploaded, not yet read (10 Nov):** HO 42/143 (one 810-page file, Mar 1815 Corn Law riots) being read in 8 page ranges; pp.400–599 done. Duplicates skipped: HO-42-34_01–03 (read earlier), HO-42-162_2 (1).
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Not uploaded (as of 5 Nov):** HO 40/1–2 (1812 Luddites; digitised); HO 42/28–29, 31–32 (Jan–Jul 1794); 119–131 (1812); 178–179 (1818); 152–157 (Jul–Dec 1816); 158–172 (1817). All are free TNA downloads per Discovery.
 - **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
