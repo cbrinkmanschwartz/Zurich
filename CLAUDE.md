@@ -68,6 +68,7 @@ The spreadsheet's sheets:
   - HO 42/34 (Jan–May 1795; parts 04–05 read 10 Nov: 33 rows, Cornwall tinners keep-troops, Crediton, Kingswood E507, Coventry, Chudleigh, Shackerstone, soldiers rioting over prices)
   - HO 42/58 (Sep–Dec 1801; interdepartmental, 1 row: Ilfracombe barley riot, customs officers ask for horse)
   - HO 42/141 (Oct–Dec 1814; Nottingham Luddite revival Oct 1814, 200 infantry sent; Tyne seamen; Whitehaven; misfiled Nov 1811 Coldham/Sherbrooke originals now in E169)
+  - **HO 42/143** (Mar 1815, London Corn Law riots, 810 pages; 89 rows HO42-1872–1960, London in E687; 6 rows in pp.0–99 have paraphrased quotes, CHECK): peers' house guards, magistrates calling troops direct from barracks, unrequested City patrols withdrawn after Lord Mayor objected; Sunderland keelmen (E690), Norwich, Ringwood, Birmingham, Oxford
   - HO 42/144 (Apr–Jun 1815; Nottingham 1815 troops leaving for Waterloo, Hull depot, Bardney yeomanry)
   - HO 42/35–40 (Jun 1795–May 1797), 41 (Jun–Dec 1797)
   - HO 42/57, 62 (May–Dec 1801)
@@ -90,8 +91,8 @@ The spreadsheet's sheets:
   - HO 42/27 (Nov–Dec 1793; ff.1–c.884; parts 06–07 are London Gazette accounts)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 1871 events; see Summary sheet for the breakdown; 29 leads.
-- **Uploaded, not yet read (10 Nov):** HO 42/143 (one 810-page file, Mar 1815 Corn Law riots) being read in 8 page ranges; pp.400–599 done. Duplicates skipped: HO-42-34_01–03 (read earlier), HO-42-162_2 (1).
+- **Log:** 1960 events; see Summary sheet for the breakdown; 29 leads.
+- **Uploaded, not yet read:** nothing (all uploads to 10 Nov read). Duplicates skipped: HO-42-34_01–03 (read earlier), HO-42-162_2 (1).
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Not uploaded (as of 5 Nov):** HO 40/1–2 (1812 Luddites; digitised); HO 42/28–29, 31–32 (Jan–Jul 1794); 119–131 (1812); 178–179 (1818); 152–157 (Jul–Dec 1816); 158–172 (1817). All are free TNA downloads per Discovery.
 - **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
