@@ -93,7 +93,7 @@ The spreadsheet's sheets:
   - HO 42/27 (Nov–Dec 1793; ff.1–c.884; parts 06–07 are London Gazette accounts)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 2159 events; see Summary sheet for the breakdown; 29 leads.
+- **Log:** 2211 events; see Summary sheet for the breakdown; 29 leads.
 - **Uploaded, not yet read (11 Nov):** batch of ~75 parts: HO 42/146–149, 159, 160, 163, 164 in progress. Tool: scratchpad tools/towncol.py recomputes the town-rule columns after each merge.
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Not uploaded (as of 5 Nov):** HO 40/1–2 (1812 Luddites; digitised); HO 42/28–29, 31–32 (Jan–Jul 1794); 119–131 (1812); 178–179 (1818); 152–157 (Jul–Dec 1816); 158–172 (1817). All are free TNA downloads per Discovery.
