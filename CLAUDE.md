@@ -33,7 +33,7 @@ The spreadsheet's sheets:
 - **Folios:** TNA's HO 42 PDFs were made from microfilm *before* the volumes were renumbered. Record the folio number stamped on the page in `Folio`, the PDF page number in `PDF page no.`, and set `Folio basis` accordingly.
 - **"Civil power inadequate?":** Y means the *writer says* the constables or magistrates couldn't cope. It records the claim, not whether it was true.
 - **Addressee:** check how the letter opens. "Your Grace" means Portland (Home Secretary from 11 Jul 1794). "Your Lordship" means someone else, so the letter was probably forwarded.
-- **Episodes: 1 town = 1 incident (CBS, 10 Nov 2026).** Column 'Episode ID (1 town = 1 incident)' at the end of Events applies it: multi-town episodes split by town (largest town keeps the old ID, others get suffixes like E587-b). Rows whose place is a county, several towns or a writer's HQ (Pontefract, Lichfield, Whitehall…) stay with the main town, flagged CHECK in 'Town rule note'. Request episodes: 333 old, 404 under the rule. No time-gap split yet (e.g. E169 Nottingham still spans 1811–12). Use this column for new rows too.
+- **Episodes: 1 town = 1 incident (CBS, 10 Nov 2026).** Column 'Episode ID (1 town = 1 incident)' at the end of Events applies it: multi-town episodes split by town (largest town keeps the old ID, others get suffixes like E587-b). Rows whose place is a county, several towns or a writer's HQ (Pontefract, Lichfield, Whitehall…) stay with the main town, flagged CHECK in 'Town rule note'. Request episodes: 333 old, 404 under the rule (425 after the 11 Nov batch). No time-gap split yet (e.g. E169 Nottingham still spans 1811–12). Use this column for new rows too.
 - **Routes:** requests reach HO 42 in three ways: direct to the Home Secretary; forwarded by a peer, MP or Lord Lieutenant; or made locally (to a garrison or volunteer corps) and only reported afterwards. Record which route.
 - **After any edit:** run the xlsx skill's `recalc.py` and confirm 0 errors. Keep Arial and the existing look. Copy the formatting of the last row when adding rows.
 - **Flag guesses.** If a role, addressee or event type is inferred rather than read, write "CHECK:" in Notes.
@@ -77,6 +77,7 @@ The spreadsheet's sheets:
   - HO 42/42–45 (1798), 46, 47, 48 (1799; security papers, low yield), 49, 50 (Jan–Aug 1800), 61 (Jan–Apr 1801)
   - HO 42/113 (Domestic, Oct–Dec 1811), 117, 118 (Aug–Dec 1811, Luddites)
   - HO 42/150, 151 (May–Jun 1816)
+  - **HO 42/166, 167 (Jun 1817), 146 parts 1–5 (Sep–Oct 1815), 160 part 1** (11 Nov; 107 rows HO42-1961–2067): Pentrich rising 9–10 Jun 1817 ('there were not any Troops in Derby'; Ripley/South Wingfield/Alfreton requests), Folly Hall/Huddersfield (E776), Nottingham/Eastwood dragoons, Rochdale refused; NE seamen's strike 1815 (Newcastle mayor's cavalry request, Admiralty refused a warship as a matter 'belong[ing] to the Civil power'), Hull. Naval-force requests logged as requests with CHECK (decision pending).
   - **HO 42/158, 161, 162, 165** (Jan–May 1817; 115 rows HO42-1757–1871): Hunt's Bath/Bristol meetings (E714, E650), Birmingham and Potteries reform meetings, Manchester artillery request, Leicester artillery refused, Blanketeers 10 Mar (Byng, Oldham requisition), Manchester plot 30 Mar, Somerset colliers (Hippisley requisition), Scilly, Maryport, Alnwick, Notts assizes. Byng on Hull JPs: 'think only of preserving the Peace by Military assistance'.
   - **HO 42/155, 156, 157** (Nov–Dec 1816; 116 rows HO42-1519–1634 plus 157_2–7 in HO42-1635–1756): Spa Fields 2 Dec 1816 (E379; ~8 London requests that day, City prisons, docks, gas works, armouries), Notts/Radford guard (E573), Sheffield 3–5 Dec, Bristol (Hunt), Carlisle depot, Manchester infantry, Birmingham follow-ups. Theme: alarm about arms depots. HO 42/156_2 ff.100–117 judged from contact sheets only (re-check).
   - HO 40/3 (Oct 1816–Feb 1818: the 1817 Lords Secret Committee bundle; Spa Fields, Hampden clubs, Leicestershire, Lancashire; NOT 1812 Luddites)
@@ -92,8 +93,8 @@ The spreadsheet's sheets:
   - HO 42/27 (Nov–Dec 1793; ff.1–c.884; parts 06–07 are London Gazette accounts)
   - HO 42/187–194, 195–198 (May–Nov 1819; 1819 complete, incl. Peterloo, episode E253)
   - 31 Oct 2026: the 78 PDFs above were read by parallel sub-agents under a common brief (scratchpad BRIEF.md); rows merged and spot-checked by the coordinator (2 of 2 checked rows correct; one signatory name corrected). Treat CHECK: flags in those rows with extra care.
-- **Log:** 1960 events; see Summary sheet for the breakdown; 29 leads.
-- **Uploaded, not yet read:** nothing (all uploads to 10 Nov read). Duplicates skipped: HO-42-34_01–03 (read earlier), HO-42-162_2 (1).
+- **Log:** 2067 events; see Summary sheet for the breakdown; 29 leads.
+- **Uploaded, not yet read (11 Nov):** batch of ~75 parts: HO 42/146–149, 159, 160, 163, 164 in progress. Tool: scratchpad tools/towncol.py recomputes the town-rule columns after each merge.
 - **Kew plan:** `Kew_orders.xlsx` (Friday 21 on-demand; Saturday 12 add-ins; already ordered). See notes/03.
 - **Not uploaded (as of 5 Nov):** HO 40/1–2 (1812 Luddites; digitised); HO 42/28–29, 31–32 (Jan–Jul 1794); 119–131 (1812); 178–179 (1818); 152–157 (Jul–Dec 1816); 158–172 (1817). All are free TNA downloads per Discovery.
 - **Theme from 1800 volumes:** volunteers unreliable or mutinous on food prices (Bolton, Potteries, Stafford, Exmouth/E. Devon); some reinforcements were unrequested (Birmingham, Nov 1800).
